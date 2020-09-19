@@ -1,0 +1,21 @@
+Important points:
+
+1. We need to create a dropdown with English and Hindi, and the user has to select any one language.
+
+2. Another dropdown appears in which the user has to select any one of the sentence to figure out the parts of speech.
+
+3. The user has to find out the parts of speech for the mentioned words.
+
+4. On answering depending on the answers it has to be evaluated whether it is correct or wrong.
+
+5. The default dropdown value for all dropdowns should be Noun.
+
+6. On clicking the submit button the answers need to be evaluated.
+
+7. All the necessary information to understand about parts of speech hasbeen mentioned in Introduction and Theory.
+
+8. All the buttons need to work perfectly as per their functionality.
+
+9. The user can know the answers by clicking on Get answers button.
+
+10. Finally the webpage need to be responsive.
